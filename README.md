@@ -53,7 +53,7 @@ Software Engineer [@Microsoft Security](https://github.com/microsoft).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2025 - To: 07 May 2025
+From: 01 May 2025 - To: 08 May 2025
 
 Kusto   30 mins         ████████▒░░░░░░░░░░░░░░░░   33.19 %
 XML     24 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.98 %
