@@ -53,10 +53,11 @@ Software Engineer [@Microsoft Security](https://github.com/microsoft).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 May 2025 - To: 25 May 2025
+From: 19 May 2025 - To: 26 May 2025
 
-XML   14 mins         █████████████████▓░░░░░░░   70.19 %
-C#    6 mins          ███████▒░░░░░░░░░░░░░░░░░   29.81 %
+Markdown   32 mins         ███████████████▒░░░░░░░░░   61.73 %
+XML        14 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.86 %
+C#         6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
 ```
 
 <!--END_SECTION:waka-->
